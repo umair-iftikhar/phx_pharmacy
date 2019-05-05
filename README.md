@@ -1,5 +1,8 @@
 # PhxPharmacy
+Pharmacy software is a free software build with Phoenix Framework for learning purpose. This software is free for use under the Apache 2.0 License. You are free to work on this software. 
 
+
+# Phoenix Server
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
